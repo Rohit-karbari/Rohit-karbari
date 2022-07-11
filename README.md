@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing, from-end tools.
 - 🌱 I’m currently learning MERN stack developing
 - 💞️ I’m looking to collaborate on B2B Application
-- 📫 How to reach me @rohitkarbari26@gmail.com, mobile - 7892795919
+- 📫 How to reach me @rohitkarbari26@gmail.com, mobile - 7892795919, https://www.linkedin.com/in/rohit-karbari-b02a83204
 
 <!---
 Rohit-karbari/Rohit-karbari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
