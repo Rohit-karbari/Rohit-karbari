@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohit-karbari
-- 👀 I’m interested in Programing, from-end tools.
+- 👀 I’m interested in Programing, front-end tools.
 - 🌱 I’m currently learning MERN stack developing
 - 💞️ I’m looking to collaborate on B2B Application
 - 📫 How to reach me @rohitkarbari26@gmail.com, mobile - 7892795919, https://www.linkedin.com/in/rohit-karbari-b02a83204
