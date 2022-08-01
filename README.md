@@ -10,7 +10,7 @@
 - 💬 Ask me about **React.Js, Redux, JavaScript.**
 
 - 📫 How to reach me **rohitkarbari26@gmail.com**
-- ![image](https://user-images.githubusercontent.com/108855706/182146736-a00ef4dc-75f6-4867-91c6-f86e290c4c56.png) clall me at 7892795919
+- ![image](https://user-images.githubusercontent.com/108855706/182147013-868688ef-34e2-407d-9b0a-97adc88e6b33.png)clall me at 7892795919
 
 
 <h3 align="left">Connect with me:</h3>
