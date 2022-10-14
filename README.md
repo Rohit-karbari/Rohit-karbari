@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **B2B Application**
 
-- 💬 Ask me about **React.Js, Redux, JavaScript, React Native,TypeScript(basic).**
+- 💬 Ask me about **React.Js, Redux, JavaScript,Node js, React Native,TypeScript(basic).**
 
 - 📫 How to reach me **rohitkarbari26@gmail.com**
 
